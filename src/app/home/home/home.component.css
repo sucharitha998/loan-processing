@@ -1,0 +1,31 @@
+#title{
+    background-color:red;
+    color: white;
+    height: 50px;
+    
+}
+
+
+#title p{
+    margin-left: 550px;
+    font-size: 30px;
+}
+
+#indi ol li {
+    margin-top:  0px;
+    margin-left: 10px;
+}
+
+div h4{
+    margin-left: 0px;
+    color:  darkorange;
+}
+
+div img{
+    height: 150px;
+    
+}
+div a{
+    margin-left: 80px;
+    background-color:  darkorange;
+}

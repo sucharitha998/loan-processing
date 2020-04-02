@@ -24,9 +24,14 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "C:/Users/Lenovo/Desktop/loan/loanprocess/node_modules/bootstrap/dist/css/bootstrap.min.css"
+
             ],
-            "scripts": []
+            "scripts": [
+              "C:/Users/Lenovo/Desktop/loan/loanprocess/node_modules/jquery/dist/jquery.min.js",
+              "C:/Users/Lenovo/Desktop/loan/loanprocess/node_modules/bootstrap/dist/js/bootstrap.min.js"
+            ]
           },
           "configurations": {
             "production": {
@@ -89,9 +94,13 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "C:/Users/Lenovo/Desktop/loan/loanprocess/node_modules/bootstrap/dist/css/bootstrap.min.css"
             ],
-            "scripts": []
+            "scripts": [
+              "C:/Users/Lenovo/Desktop/loan/loanprocess/node_modules/jquery/dist/jquery.min.js",
+              "C:/Users/Lenovo/Desktop/loan/loanprocess/node_modules/bootstrap/dist/js/bootstrap.min.js"
+            ]
           }
         },
         "lint": {
